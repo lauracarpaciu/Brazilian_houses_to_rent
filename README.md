@@ -11,3 +11,7 @@ After that exploration, I decided to fir MLPRegressor, and predict rent amount v
 
 ![Opera Snapshot_2022-02-22_120011_github com](https://user-images.githubusercontent.com/30430563/155109082-67f27e1c-3c80-4e33-ab15-7131e1ce3b00.png)
 
+![Opera Snapshot_2022-02-22_120011_github com](https://user-images.githubusercontent.com/30430563/155116374-603e19e4-d83b-460c-88ab-a1a433341505.png)
+
+
+![Opera Snapshot_2022-02-22_124306_github com](https://user-images.githubusercontent.com/30430563/155116411-c8ef8856-951d-40b1-9c0f-5b3401eb0a79.png)
